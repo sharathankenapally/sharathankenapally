@@ -91,7 +91,7 @@ Multi-agent system that processes denied healthcare claims by classifying, analy
 </p>
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-top-langs?login=sharathankenapally" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathankenapally&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
