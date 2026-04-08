@@ -108,7 +108,8 @@ I am always interested in collaborating on impactful AI systems or discussing ag
 
 <p align="center">
   <a href="https://linkedin.com/in/sharathankenapally">LinkedIn</a> •
-  <a href="https://github.com/sharathankenapally">GitHub</a>
+  <a href="https://github.com/sharathankenapally">GitHub</a> •
+  <a href="https://medium.com/@sharath.ankenapally">Medium</a>
 </p>
 
 ---
