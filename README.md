@@ -66,8 +66,9 @@ Multi-agent system that processes denied healthcare claims by classifying, analy
 
 ## GitHub stats
 
-![Sharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharathankenapally&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathankenapally&layout=compact&theme=tokyonight&hide_border=true)
+![Sharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharathankenapally&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathankenapally&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ---
 
