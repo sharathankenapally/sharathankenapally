@@ -1,8 +1,8 @@
 # Sharath Ankenapally
 
-<h3>AI Engineer | Building Agentic Systems & Production-Ready GenAI</h3>
+<h3 align="center">AI Engineer | Building Agentic Systems & Production-Ready GenAI</h3>
 
-<p>
+<p align="center">
   <i>I build AI systems that don’t just process data - they reason, decide, and act in real-world workflows.</i><br/>
   <i>Turning LLM capabilities into reliable, production-ready systems.</i>
 </p>
@@ -106,7 +106,7 @@ Multi-agent system that processes denied healthcare claims by classifying, analy
 
 ## 🤝 Let's connect
 
-I’m always interested in collaborating on impactful AI systems or discussing agentic AI and the future of software.
+I am always interested in collaborating on impactful AI systems or discussing agentic AI and the future of software.
 
 <p align="center">
   <a href="https://linkedin.com/in/sharathankenapally">LinkedIn</a> •
