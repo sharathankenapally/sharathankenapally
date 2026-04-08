@@ -51,14 +51,16 @@ AI Engineer | Machine Learning & Data Analysis | MSc Graduate, University of Nor
 ### 🚗 [AI Road Trip Planner](https://github.com/sharathankenapally/AI-Road-Trip-Planner)
 
 Autonomous AI system that converts natural language trip ideas into structured, personalized itineraries using multi-step reasoning and tool orchestration.  
+
 `LangChain` · `OpenAI` · `Agents` · `Python`
 ---
 ### 🏥 [Healthcare Claims Agent](https://github.com/sharathankenapally/claims_agent)
+
 Multi-agent system that processes denied healthcare claims by classifying, analyzing, and recommending resolutions using LLMs and structured data pipelines.  
 `Python` · `SQL` · `Multi-agent` · `LLM`
 ### 🚌 [TransitPass AI](https://github.com/sharathankenapally/TransitPass-AI)
 AI-powered transit visa checker that helps travelers understand visa requirements for multi-stop international journeys.  
-**Tech Stack:**  
+
 `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Framer Motion` · `shadcn/ui` · `cmdk`  
 ---
 
