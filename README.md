@@ -1,10 +1,10 @@
 # Sharath Ankenapally
 
-<h3 align="center">
+<h3>
 AI Engineer | Machine Learning & Data Analysis | MSc Graduate, University of North Texas
 </h3>
 
-<p align="center">
+<p>
   <i>I build AI systems that don’t just process data - they reason, decide, and act in real-world workflows.</i><br/>
   <i>Turning LLM capabilities into reliable, production-ready systems.</i>
 </p>
@@ -14,9 +14,10 @@ AI Engineer | Machine Learning & Data Analysis | MSc Graduate, University of Nor
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-E34F26?style=for-the-badge&logo=fastapi&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-563D7C?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-238636?style=for-the-badge)
 
 </p>
