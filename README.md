@@ -63,7 +63,7 @@ Multi-agent system that processes denied healthcare claims by classifying, analy
 
 ### 🚌 [TransitPass AI](https://github.com/sharathankenapally/TransitPass-AI)
 
-AI-powered transit visa checker that helps travelers understand visa requirements for multi-stop international journeys.  
+Smart transit visa checker designed to help travelers quickly understand visa requirements for multi-stop international journeys.
 
 `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Framer Motion` · `shadcn/ui` · `cmdk`  
 
