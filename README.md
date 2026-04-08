@@ -1,10 +1,12 @@
 # Sharath Ankenapally
 
-<h3 align="center">AI Engineer | Building Agentic Systems & Production-Ready GenAI</h3>
+<h3 align="center">
+AI Engineer | Machine Learning & Data Analysis | MSc Graduate, University of North Texas
+</h3>
 
 <p align="center">
   <i>I build AI systems that don’t just process data - they reason, decide, and act in real-world workflows.</i><br/>
-  <i>Focused on turning LLM capabilities into reliable, production-ready systems.</i>
+  <i>Turning LLM capabilities into reliable, production-ready systems.</i>
 </p>
 
 <p align="center">
@@ -21,35 +23,31 @@
 
 ---
 
-## 🚀 What I'm about
+## 🚀 About Me
 
-- 🟢 **Building:** Production-ready AI pipelines and multi-agent systems that automate complex workflows (planning, decision-making, execution)
-- ⚙ **Specializing in:** RAG systems, LLM orchestration, and agentic architectures with tool usage, memory, and self-correction
-- 💼 **Open to:** AI/ML Engineering, Backend, or Data roles where I can build scalable AI systems
-- 💬 **Core strengths:** Python, SQL, APIs, prompt engineering, and system design for LLM-based applications
+- 🎓 **Education:** MSc in Computer Science from University of North Texas  
+- 🟢 **Expertise:** Machine Learning, Data Analysis, AI/ML Engineering  
+- ⚙ **Specializing in:** RAG systems, LLM orchestration, multi-agent workflows, tool usage, memory, and self-correction  
+- 💼 **Open to:** AI/ML Engineering, Backend, or Data roles where I can build **scalable, production-ready AI systems**  
+- 💬 **Core skills:** Python, SQL, APIs, prompt engineering, system design, Machine Learning, Data Analysis  
 
 ---
 
-## 🧠 Tech stack
+## 🧠 Tech Stack
 
-**Languages:** Python, SQL  
-**AI/ML:** LLMs, RAG, LangChain, Hugging Face, Prompt Engineering  
+**Languages:** Python, SQL, JavaScript  
+**AI/ML:** LLMs, RAG, LangChain, Hugging Face, Prompt Engineering, Scikit-Learn, Pandas  
 **Backend:** FastAPI, REST APIs, Microservices  
-**Data:** PostgreSQL, Data Pipelines, ETL  
+**Data:** PostgreSQL, ETL, Data Pipelines  
 **Concepts:** Agentic AI, Multi-agent systems, Retrieval systems, System Design  
 
 ---
 
-## 🧩 Featured projects
+## 🧩 Featured Projects
 
 ### 🚗 [AI Road Trip Planner](https://github.com/sharathankenapally/AI-Road-Trip-Planner)
 
-Autonomous AI pipeline that converts natural language trip ideas into structured, personalized itineraries using multi-step reasoning and tool orchestration.  
-
-**Impact:**
-- Modular multi-agent design (planner, validator, enhancer)
-- Natural language → structured execution pipeline
-- Simulates real-world decision workflows  
+Autonomous AI system that converts natural language trip ideas into structured, personalized itineraries using multi-step reasoning and tool orchestration.  
 
 `LangChain` · `OpenAI` · `Agents` · `Python`
 
@@ -59,32 +57,37 @@ Autonomous AI pipeline that converts natural language trip ideas into structured
 
 Multi-agent system that processes denied healthcare claims by classifying, analyzing, and recommending resolutions using LLMs and structured data pipelines.  
 
-**Impact:**
-- End-to-end classification → reasoning → resolution pipeline  
-- Automates complex rule-based workflows at scale  
-- Combines LLM reasoning with structured data systems  
 
 `Python` · `SQL` · `Multi-agent` · `LLM`
 
 ---
 
-## ⚡ What sets me apart
+## 🧠 How I Build AI Systems
 
-- I focus on **systems, not prompts** - designing end-to-end AI workflows  
-- I build projects that simulate **real production use-cases**, not isolated demos  
+- Design **multi-agent workflows**: planner → executor → validator  
+- Implement **RAG pipelines** for grounded LLM outputs  
+- Use **tool calling + structured outputs** for reliability  
+- Include **evaluation layers** to reduce hallucinations and errors  
+
+---
+
+## 🚧 Currently Building
+
+- Agent memory systems for long-running workflows  
+- Evaluation frameworks for LLM reliability  
+- End-to-end production-ready RAG pipelines  
+
+---
+
+## ⚡ What Sets Me Apart
+
+- I focus on **impact over experimentation** - building systems that scale  
+- I build projects simulating **real production use-cases**, not isolated demos  
 - I think in terms of **agents, tools, and decision loops**, not just models  
 
 ---
 
-## 🔬 Currently exploring
-
-- Advanced agent orchestration (planning + memory)
-- LLM evaluation and reliability
-- Scalable RAG pipelines
-
----
-
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sharathankenapally&theme=tokyonight&hide_border=true" />
@@ -96,9 +99,9 @@ Multi-agent system that processes denied healthcare claims by classifying, analy
 
 ---
 
-## 🤝 Let's connect
+## 🤝 Let's Connect
 
-I am always interested in collaborating on impactful AI systems or discussing ideas around agentic AI and the future of software.
+I am always interested in collaborating on impactful AI systems or discussing agentic AI and the future of software.
 
 <p align="center">
   <a href="https://linkedin.com/in/sharathankenapally">LinkedIn</a> •
