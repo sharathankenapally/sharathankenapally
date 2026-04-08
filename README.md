@@ -66,9 +66,13 @@ Multi-agent system that processes denied healthcare claims by classifying, analy
 
 ## GitHub stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sharathankenapally&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sharathankenapally&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://stats.dooboo.io/api/github-top-langs?login=sharathankenapally)
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-top-langs?login=sharathankenapally" />
+</p>
 
 ---
 
