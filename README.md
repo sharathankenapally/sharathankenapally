@@ -1,8 +1,7 @@
 # Sharath Ankenapally
 
-### AI Engineer · Python · SQL · Generative AI
-
-> *I build AI systems that don't just process data - they reason, decide, and act. Every project I ship is a small proof that the future is closer than it looks.*
+### AI Engineer | Building Agentic Systems & Production-Ready GenAI | Data Analyst
+> *I build AI systems that don’t just process data - they reason, decide, and act in real-world workflows. From autonomous pipelines to multi-agent systems, my work focuses on turning LLM capabilities into reliable, production-ready solutions.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -16,24 +15,52 @@
 
 ## What I'm about
 
-- 🟢 **Building:** Autonomous AI pipelines and multi-agent systems that solve real, complex problems - not toy demos.
-- ⚙ **Learning:** RAG architectures, LLM fine-tuning, and the emerging patterns of agentic AI - how models plan, delegate, and self-correct.
-- 💼 **Open to:** AI/ML engineering, data engineering, and backend roles where I can build things that matter at scale.
-- 💬 **Ask me about:** Python, SQL, prompt engineering, LLM orchestration, multi-agent design patterns.
+- 🟢 **Building:** Production-ready AI pipelines and multi-agent systems that automate complex workflows (planning, decision-making, execution)
+- ⚙ **Specializing in:** RAG systems, LLM orchestration, and agentic architectures with tool usage, memory, and self-correction
+- 💼 **Open to:** AI/ML Engineering, Backend, or Data Science roles where I can build scalable AI systems
+- 💬 **Core strengths:** Python, SQL, APIs, prompt engineering, and system design for LLM-based applications
 
-> I believe we're at an inflection point - where AI stops being a feature and becomes the architect of software itself. I want to be one of the people building that transition, not watching it.
+---
+
+## Tech stack
+
+**Languages:** Python, SQL  
+**AI/ML:** LLMs, RAG, LangChain, Hugging Face, Prompt Engineering  
+**Backend:** FastAPI, REST APIs, Microservices  
+**Data:** PostgreSQL, Data Pipelines, ETL  
+**Concepts:** Agentic AI, Multi-agent systems, Retrieval systems, System Design  
 
 ---
 
 ## Featured projects
 
-**[AI Road Trip Planner](https://github.com/sharathankenapally/AI-Road-Trip-Planner)**
-Autonomous AI pipeline that turns a plain-English trip idea into a fully structured, personalized itinerary - no forms, no rigid inputs, just intelligent reasoning.
+### [AI Road Trip Planner](https://github.com/sharathankenapally/AI-Road-Trip-Planner)
+Autonomous AI pipeline that converts natural language trip ideas into structured, personalized itineraries using multi-step reasoning and tool orchestration.  
+**Impact:** Designed modular agents for planning, validation, and enrichment to simulate real-world decision workflows.  
 `LangChain` · `OpenAI` · `Agents` · `Python`
 
-**Healthcare Claims Agent**
-Multi-step agent workflow that autonomously processes denied healthcare claims - classifying, reviewing, and resolving at scale using LLMs and structured data pipelines.
+---
+
+### [Healthcare Claims Agent](https://github.com/sharathankenapally/claims_agent)
+Multi-agent system that processes denied healthcare claims by classifying, analyzing, and recommending resolutions using LLMs and structured data pipelines.  
+**Impact:** Demonstrates scalable automation of complex, rule-based workflows with human-like reasoning.  
 `Python` · `SQL` · `Multi-agent` · `LLM`
+
+---
+
+## What sets me apart
+
+- I focus on **systems, not prompts** - designing end-to-end AI workflows  
+- I build projects that simulate **real production use-cases**, not isolated demos  
+- I think in terms of **agents, tools, and decision loops**, not just models  
+
+---
+
+## Currently exploring
+
+- Advanced agent orchestration (planning + memory)
+- LLM evaluation and reliability
+- Scalable RAG pipelines
 
 ---
 
@@ -44,13 +71,13 @@ Multi-step agent workflow that autonomously processes denied healthcare claims -
 
 ---
 
-## Let's collaborate
+## Let's connect
 
-I'm energized by people who want to push what's possible with AI. If you're working on something ambitious - or just want to think out loud about where this is all headed - reach out.
+I am always interested in collaborating on impactful AI systems or discussing ideas around agentic AI and the future of software.
 
-`Agentic AI` · `LLM orchestration` · `Open source` · `GenAI products` · `Data engineering`
-
-Connect: [LinkedIn](https://linkedin.com/in/sharathankenapally) · [GitHub](https://github.com/sharathankenapally)
+Connect:  
+[LinkedIn](https://linkedin.com/in/sharathankenapally)  
+[GitHub](https://github.com/sharathankenapally)
 
 ---
 
