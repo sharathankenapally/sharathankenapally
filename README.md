@@ -1,7 +1,5 @@
 # Sharath Ankenapally
-<p>
-  <img src="https://github.com/sharathankenapally.png" alt="Sharath Ankenapally" width="150" style="border-radius:50%;">
-</p>
+
 <h3>
 AI Engineer | Machine Learning & Data Analysis | MSc Graduate, University of North Texas
 </h3>
