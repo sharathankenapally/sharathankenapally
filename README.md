@@ -1,7 +1,6 @@
 # Sharath Ankenapally
-
 <h3>
-AI Engineer | Machine Learning & Data Analysis | MSc Graduate, University of North Texas
+Machine Learning & Data Analysis | AI Engineer | MSc Graduate, University of North Texas
 </h3>
 
 <p>
@@ -26,7 +25,7 @@ AI Engineer | Machine Learning & Data Analysis | MSc Graduate, University of Nor
 
 ## 🚀 About Me
 
-- 🎓 **Education:** MSc in Computer Science from University of North Texas  
+- 🎓 **Education:** MSc in Advanced Data Analytics from University of North Texas  
 - 🟢 **Expertise:** Machine Learning, Data Analysis, AI/ML Engineering  
 - ⚙ **Specializing in:** RAG systems, LLM orchestration, multi-agent workflows, tool usage, memory, and self-correction  
 - 💼 **Open to:** AI/ML Engineering, Backend, or Data roles where I can build **scalable, production-ready AI systems**  
