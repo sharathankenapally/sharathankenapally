@@ -1,6 +1,6 @@
 # Sharath Ankenapally
 <h3>
-Machine Learning & Data Analysis | AI Engineer | MSc Graduate, University of North Texas
+MSc Graduate, University of North Texas
 </h3>
 
 <p>
@@ -26,10 +26,9 @@ Machine Learning & Data Analysis | AI Engineer | MSc Graduate, University of Nor
 ## 🚀 About Me
 
 - 🎓 **Education:** MSc in Advanced Data Analytics from University of North Texas  
-- 🟢 **Expertise:** Machine Learning, Data Analysis, AI/ML Engineering  
+- 🟢 **Expertise:** Full Stack Development, Machine Learning, Data Analysis, AI/ML Engineering  
 - ⚙ **Specializing in:** RAG systems, LLM orchestration, multi-agent workflows, tool usage, memory, and self-correction  
-- 💼 **Open to:** AI/ML Engineering, Backend, or Data roles where I can build **scalable, production-ready AI systems**  
-- 💬 **Core skills:** Python, SQL, APIs, prompt engineering, system design, Machine Learning, Data Analysis  
+- 💬 **Core skills:** Frontend, Backend, Python, SQL, APIs, prompt engineering, system design, Machine Learning, Data Analysis  
 
 ---
 
@@ -108,7 +107,7 @@ Smart transit visa checker designed to help travelers quickly understand visa re
 I am always interested in collaborating on impactful AI systems or discussing agentic AI and the future of software.
 
 <p align="center">
-  <a href="https://linkedin.com/in/sharathankenapally">LinkedIn</a> •
+  <a href="">LinkedIn</a> •
   <a href="https://github.com/sharathankenapally">GitHub</a> •
   <a href="https://medium.com/@sharath.ankenapally">Medium</a>
 </p>
